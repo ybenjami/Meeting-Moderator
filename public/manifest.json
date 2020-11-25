@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Meeting Moderator",
+  "name": "Meeting Moderator Application",
   "icons": [
     {
       "src": "favicon.ico",
